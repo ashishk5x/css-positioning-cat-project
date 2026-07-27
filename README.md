@@ -4,7 +4,7 @@ A CSS art project built while completing the **Responsive Web Design** certifica
 
 ## 📸 Preview
 
-![Project Preview](preview.png)
+<img width="1065" height="1534" alt="image" src="https://github.com/user-attachments/assets/30a63a3e-062c-435f-8d1c-815dd716c160" />
 
 ---
 
