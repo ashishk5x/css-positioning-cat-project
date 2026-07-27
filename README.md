@@ -4,7 +4,7 @@ A CSS art project built while completing the **Responsive Web Design** certifica
 
 ## 📸 Preview
 
-![Project Preview](assets/preview.png)
+![Project Preview](preview.png)
 
 ---
 
